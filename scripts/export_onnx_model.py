@@ -8,7 +8,7 @@ import torch
 
 from segment_anything import sam_model_registry
 from segment_anything.utils.onnx import SamOnnxModel
-
+##qianga
 import argparse
 import warnings
 
